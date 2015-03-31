@@ -24,7 +24,7 @@ This category fills that gap, adding CLLocation and ISO 3166 country code access
 ```objc
 #import "NSTimeZone+ISCLLocation.h"
 
-É
+â€¦
 
 NSTimeZone *timeZone = [NSTimeZone localTimeZone];
 CLLocation *location;
@@ -46,7 +46,7 @@ else
 ```objc
 #import "NSTimeZone+ISCLLocation.h"
 
-É
+â€¦
 
 NSTimeZone *timeZone = [NSTimeZone localTimeZone];
 NSString *countryCode;
